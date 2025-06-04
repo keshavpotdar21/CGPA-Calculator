@@ -1,3 +1,3 @@
 # CGPA Calculator
 
-## [Website](https://cgpa-calc.streamlit.app/)
+## [Website](https://keshavpotdar21-cgpa-calculator.streamlit.app/)
